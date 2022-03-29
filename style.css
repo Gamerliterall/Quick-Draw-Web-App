@@ -1,0 +1,33 @@
+body{
+    background-color: lime;
+}
+
+h1{
+    background-color: black;
+    color: cyan;
+}
+
+#Sketch{
+    float: left 5px;
+}
+
+#score{
+    font-size: 25px;
+    margin-left: 5px;
+    float: left;
+}
+
+#Timer{
+    float: right;
+    font-size: 25px;
+    margin-right: 5px;
+}
+
+p{
+    font-size: 25px;
+    color: black;
+}
+
+#Sketch_drawn{
+    color: cornflowerblue;
+}
